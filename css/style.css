@@ -1,0 +1,44 @@
+body{
+    color: black;
+}
+
+.img{
+    border: solid 3px black;
+    border-radius: 50%;
+}
+.ob4{
+    font-size: larger;
+}
+.row{
+    display: inline-block;
+}
+h1{
+    color : white;
+    background-color: black;
+    font-family:"Rubik Bubbles";
+}
+
+.abc{
+    font-family:"Bakbak one";
+}
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+a{
+    color:black;
+}
+.ob1{
+    color:black;
+    font-size: large;
+    
+}
+.code{
+    display: inline-block;
+}
+.lol{
+    display: block;
+    width: 200;
+}
